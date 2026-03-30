@@ -1,7 +1,7 @@
 # 🎓 College Club Recommender
 
 **Developer:** Ujjwal Sharma  
-**Registration Number:**25BCE11120  
+**Registration Number:** 25BCE11120  
 **Institution:** VIT Bhopal University  
 **Degree:** B.Tech in Computer Science and Engineering  
 **Academic Year:** 2025–2026
